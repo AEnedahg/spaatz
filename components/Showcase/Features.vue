@@ -1,6 +1,6 @@
 <template>
   <div class="w-screen bg-white">
-    <section class="max-w-[1440px] mx-auto md:px-17.5 px-4 py-20 lg:mt-120
+    <section class="max-w-[1440px] mx-auto md:px-17.5 px-4 py-20
     mt-20
     ">
       <div class="flex flex-col lg:flex-row">
